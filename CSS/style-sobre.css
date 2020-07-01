@@ -1,0 +1,32 @@
+.header-nav-ul li:nth-child(1) a {
+    color: black;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+}
+body{
+    
+    box-sizing: border-box;
+}
+main{
+    padding: 0px 12% 22px 6%;
+}
+.header{
+    padding: 20px 0;
+}
+a{
+    color: #111111;
+}
+h2{
+    color: #111111;
+}
+h3{
+    font-size: 20px;
+    color: #111111;
+}
+p {
+    font-family: Roboto-Regular;
+    font-size: 18px;
+    color: #444444;
+    line-height: 28px;
+}
